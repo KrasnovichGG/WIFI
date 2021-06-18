@@ -1,5 +1,4 @@
-﻿// OpenWeatherMap REST API example
-// DKY 2021
+﻿
 
 using System;
 using System.Collections.Generic;
